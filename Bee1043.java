@@ -13,8 +13,8 @@ public class Bee1043 {
             perimetro = valor1 + valor2 + valor3;
             System.out.printf("Perimetro = %.1f%n", perimetro);
         }else{
-           float area = ((valor1 + valor2)*valor3)/2;
-           System.out.printf("Area = %.1f%n", area);
+           float areaaa = ((valor1 + valor2)*valor3)/2;
+           System.out.printf("Area = %.1f%n", areaaa);
         }
         input.close();
     }    
