@@ -14,6 +14,7 @@ public class Bee1019{
         segundos = resto % 60;
         
         System.out.println(horas+" : "+minutos+" : "+segundos);
+        System.out.println(horas+" : "+minutos+" : "+segundos);
 
         input.close();
     }
