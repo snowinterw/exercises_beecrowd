@@ -10,9 +10,10 @@ public class Bee1064 {
 
         for(int i = 0; i<6; i++){
             array[i] = input.nextFloat();
-            soma += array[i]; 
+           
             if(array[i] > 0){
                 positivos++;
+                soma += array[i]; 
             }
         }
         if(positivos > 0){
